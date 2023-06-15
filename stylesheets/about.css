@@ -1,0 +1,20 @@
+.grid * {
+  padding-left: 2vw;
+  padding-right: 2vw;
+  background-color: blue;
+  border: 1px;
+}
+.grid {
+  display: grid;
+}
+
+
+
+
+
+
+
+
+
+
+/*  */

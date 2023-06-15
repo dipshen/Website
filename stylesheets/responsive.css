@@ -1,0 +1,12 @@
+@media only screen and (min-width: 1920px){
+  p {
+    font-size: 2.3vw;
+  }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1919px){
+  p {
+    font-size: 2.7vw;
+  }
+}
+@media only screen and (min-width: 834px) and (max-width: 1023px){}
+@media only screen and (min-width: 320px) and (max-width: 833px){}
