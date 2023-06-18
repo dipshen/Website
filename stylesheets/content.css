@@ -44,7 +44,10 @@ a{
 .menu a:nth-of-type(4) {
   right: 2vw;
 }
-
+div > p {
+  margin: 0 auto;
+  margin-top: 0.9vw;
+}
 
 
 

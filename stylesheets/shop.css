@@ -86,7 +86,32 @@
 .s17 {
   background: url(../images/s10.png);
 }
+.s3, .s4, .s8, .s9, .s10, .s13, .s14, .s18, .s19, .s20, .s21 > p {
+  display: flex;
+  vertical-align: bottom;
+  align-items: center;
+}
+div > p:nth-last-of-type(1) {
+}
 
+
+.podval_shop {
+  width: 95.5vw;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 3.1vw;
+  margin-bottom: 2vw;
+}
+.sp1, .sp2, .sp3 {
+  display: flex;
+  border: 3px solid #2C884C;
+  width: 31.8vw;
+  height: 3.1vw;
+  margin: 0 auto;
+}
+.sp2, .sp3 {
+  border-left: none;
+}
 
 
 

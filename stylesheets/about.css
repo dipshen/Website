@@ -40,35 +40,35 @@
   grid-row: 13/14;
   border-top: none;
 }
-.a6 {
-  grid-row: 16/17;
-}
 .a4, .a5 {
   border-left: none;
 }
 .a1 img {
   width: 100%;
 }
-.a3, .a4, .a5 a {
+.a3, .a4, .a5, .a6 > a {
   /* font-size: 1.1vw; */
+  display: grid;
+  justify-items: center;
+  align-items: center;
 }
-.podval {
+.podval_about {
   width: 95.5vw;
   display: flex;
   margin: 0 auto;
-  margin-top: 4.7vw;
+  margin-top: 3.9vw;
+  margin-bottom: 2vw;
 }
-.p1, .p2, .p3 {
+.ap1, .ap2, .ap3 {
   display: flex;
   border: 3px solid #FFD000;
   width: 31.8vw;
   height: 3.1vw;
   margin: 0 auto;
 }
-.p2, .p3 {
+.ap2, .ap3 {
   border-left: none;
 }
-
 
 
 
