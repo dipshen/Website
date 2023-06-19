@@ -27,6 +27,8 @@
   margin-top: 1vw;
   margin-left: 1.8vw;
 }
+
+/* ПОДВАЛ */
 .podval_events {
   width: 95.5vw;
   display: flex;
@@ -45,27 +47,3 @@
 .ep2, .ep3 {
   border-left: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*  */
