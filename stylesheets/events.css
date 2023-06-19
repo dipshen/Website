@@ -1,6 +1,6 @@
 #events {
   overflow-x: hidden;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
   width: 277.4vw;
 }
 #ablue {
@@ -15,7 +15,7 @@
 }
 .posters {
   display: flex;
-  width: 273.2vw;
+  width: 278vw;
   margin-left: .2vw;
   margin-right: 2vw;
 }
