@@ -99,22 +99,96 @@
   text-align: right;
   margin-right: 2vw;
 } */
-.s3 div:nth-of-type(1) {
+.grid_shop > div {
   display: inline-flex;
-  /* position: relative; */
   vertical-align: text-bottom;
   align-items: center;
-  text-align: left;
-  left: 2vw;
+}
+.s3 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
 }
 .s3 div:nth-of-type(2) {
   display: inline-flex;
-  /* position: relative; */
-  vertical-align: text-bottom;
-  align-items: center;
-  text-align: right;
-  margin-right: 2vw;
+  margin-left: 20.3vw;
 }
+.s4 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
+}
+.s4 div:nth-of-type(2) {
+  display: inline-flex;
+  margin-left: 52.7vw;
+}
+.s8 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
+}
+.s8 div:nth-of-type(2) {
+  display: inline-flex;
+  margin-left: 20.6vw;
+}
+.s9 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
+}
+.s9 div:nth-of-type(2) {
+  display: inline-flex;
+  margin-left: 20.3vw;
+}
+.s10 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
+}
+.s10 div:nth-of-type(2) {
+  display: inline-flex;
+  margin-left: 18.3vw;
+}
+.s13 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
+}
+.s13 div:nth-of-type(2) {
+  display: inline-flex;
+  margin-left: 41.3vw;
+}
+.s14 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
+}
+.s14 div:nth-of-type(2) {
+  display: inline-flex;
+  margin-left: 21.1vw;
+}
+.s18 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
+}
+.s18 div:nth-of-type(2) {
+  display: inline-flex;
+  margin-left: 16.3vw;
+}
+.s19 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
+}
+.s19 div:nth-of-type(2) {
+  display: inline-flex;
+  margin-left: 19.7vw;
+}
+.s20 div:nth-of-type(1) {
+  display: inline-flex;
+  margin-left: 2vw;
+}
+.s20 div:nth-of-type(2) {
+  display: inline-flex;
+  margin-left: 20.6vw;
+}
+
+
+
+
+/* ПОДВАЛ */
 .podval_shop {
   width: 95.5vw;
   display: flex;
