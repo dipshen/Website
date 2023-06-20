@@ -268,7 +268,7 @@
   .main a {
     font-size: 5.6vw;
   }
-
+  div > p { margin-top: 2vw; }
   /* О НАС */
 
   /* МЕРОПРИЯТИЯ */
