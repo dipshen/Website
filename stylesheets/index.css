@@ -110,13 +110,29 @@
     height: 11vw;
     top: 31vw;
     left: 87vw;
-    animation: i7 5s linear infinite;
+    animation: i7 12s linear infinite;
+  }
+  @keyframes i7 {
+    0% {left: 87vw; top: 31vw; opacity: 1;}
+    30% {left: -50vw; top: 31vw; opacity: 1;}
+    70% {left: -51vw; top: 31vw; opacity: 0;}
+    71% {left: 202vw; top: 31vw; opacity: 0;}
+    72% {left: 203vw; top: 31vw; opacity: 1;}
+    100% {left: 87vw; top: 31vw; opacity: 1;}
   }
   .fon img:nth-of-type(9) {
     height: 8vw;
     top: 37vw;
     left: 94vw;
-    animation: i8 5s linear infinite;
+    animation: i8 13s linear infinite;
+  }
+  @keyframes i8 {
+    0% {left: 94vw; top: 37vw; opacity: 1;}
+    30% {left: -50vw; top: 37vw; opacity: 1;}
+    70% {left: -51vw; top: 37vw; opacity: 0;}
+    71% {left: 202vw; top: 37vw; opacity: 0;}
+    72% {left: 203vw; top: 37vw; opacity: 1;}
+    100% {left: 94vw; top: 37vw; opacity: 1;}
   }
   .fon img:nth-of-type(10) {
     height: 19vw;
