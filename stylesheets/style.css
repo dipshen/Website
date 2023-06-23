@@ -7,4 +7,7 @@
 @import "shop.css";
 @import "posters.css";
 @import "products.css";
-@import 'responsive.css';
+@import 'responsive_1920.css';
+@import 'responsive_1024.css';
+@import 'responsive_834.css';
+@import 'responsive_320.css';
