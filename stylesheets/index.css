@@ -138,21 +138,57 @@
     height: 19vw;
     top: 22vw;
     left: 102vw;
+    animation: i9 15s linear infinite;
+  }
+  @keyframes i9 {
+    0% {left: 102vw; top: 22vw; opacity: 1;}
+    30% {left: -50vw; top: 23vw; opacity: 1;}
+    70% {left: -51vw; top: 23vw; opacity: 0;}
+    71% {left: 202vw; top: 21vw; opacity: 0;}
+    72% {left: 203vw; top: 21vw; opacity: 1;}
+    100% {left: 102vw; top: 22vw; opacity: 1;}
   }
   .fon img:nth-of-type(11) {
     height: 19vw;
     top: 5vw;
     left: 126vw;
+    animation: i10 11s linear infinite;
+  }
+  @keyframes i10 {
+    0% {left: 102vw; top: 5vw; opacity: 1;}
+    30% {left: -50vw; top: 7vw; opacity: 1;}
+    70% {left: -51vw; top: 7vw; opacity: 0;}
+    71% {left: 202vw; top: 3vw; opacity: 0;}
+    72% {left: 203vw; top: 3vw; opacity: 1;}
+    100% {left: 102vw; top: 5vw; opacity: 1;}
   }
   .fon img:nth-of-type(12) {
     height: 34vw;
     top: 10vw;
     left: 144vw;
+    animation: i11 10s linear infinite;
+  }
+  @keyframes i11 {
+    0% {left: 144vw; top: 10vw; opacity: 1;}
+    70% {left: -60vw; top: 10vw; opacity: 1;}
+    83% {left: -61vw; top: 10vw; opacity: 0;}
+    84% {left: 210vw; top: 10vw; opacity: 0;}
+    85% {left: 209vw; top: 10vw; opacity: 1;}
+    100% {left: 144vw; top: 10vw; opacity: 1;}
   }
   .fon img:nth-of-type(13) {
     height: 8vw;
     top: 10vw;
     left: 185vw;
+    animation: i12 7s linear infinite;
+  }
+  @keyframes i12 {
+    0% {left: 185vw; top: 10vw; opacity: 1;}
+    80% {left: -50vw; top: 10vw; opacity: 1;}
+    93% {left: -51vw; top: 10vw; opacity: 0;}
+    94% {left: 203vw; top: 10vw; opacity: 0;}
+    95% {left: 202vw; top: 10vw; opacity: 1;}
+    100% {left: 185vw; top: 10vw; opacity: 1;}
   }
   .blue {
     width: 202.6vw;
